@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "132395009904",
+    "project_id": "pension-app-2024-1",
+    "storage_bucket": "pension-app-2024-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132395009904:android:28f8306158573edfe4b1b5",
+        "android_client_info": {
+          "package_name": "com.example.pension_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgf_6QRnrffVHcGKeCB2mX2zr6J8EI6PU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
